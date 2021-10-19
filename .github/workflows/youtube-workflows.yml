@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-youtube
+  update-readme-with-youtube:
     name: update this repo's README with lates videos from Youtube
     runs-on: ubuntu-lates
     steps: 
