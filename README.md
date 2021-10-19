@@ -1,12 +1,11 @@
-<h1 align="center">Hi thre, I'm Tri Atmojo 👋</h1>
-<h3 align="center">A passionate backend developer, but also have an ability to code in frontend. i'm very passionate learn new technology</h3>
+<h2>Hi thre, I'm Tri Atmojo 👋</h2>
+<h3 align="center">A passionate backend developer, but also have an ability to code in frontend.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=triatmojo&label=Profile%20views&color=0e75b6&style=flat" alt="triatmojo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=triatmojo" alt="triatmojo" /></a> </p>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/trii_atmojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trii_atmojo" height="30" width="40" /></a>
 <a href="https://instagram.com/trii_atmojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trii_atmojo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccng9ri9uz9dopxblm8elna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccng9ri9uz9dopxblm8elna" height="30" width="40" /></a>
 </p>
