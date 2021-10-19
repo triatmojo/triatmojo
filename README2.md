@@ -1,13 +1,11 @@
 
 
-## Hi there, I'm Tri Atmojo 👋
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triatmojo&show_icons=true&locale=en" alt="triatmojo" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triatmojo&show_icons=true&locale=en&layout=compact" alt="triatmojo" /></p>
 
-### A passionate backend developer, but also have an ability to code in frontend.
+### Hi there, I'm Tri Atmojo 👋
+
+##### A passionate backend developer, but also have an ability to code in frontend.
 
 - 🔭 I’m currently at Freelance
 - 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript.
