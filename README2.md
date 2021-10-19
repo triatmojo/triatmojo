@@ -1,3 +1,6 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triatmojo&show_icons=true&locale=en&layout=compact" alt="triatmojo" /></p>
+
+
 ## Hi there, I'm Tri Atmojo 👋
 
 
@@ -10,7 +13,7 @@
 
 ### Connect with me:
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked.svg" alt="trii_atmojo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tri-atmojo-6a44091a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tri-atmojo-6a44091a3" height="30" width="40" /></a>
 <a href="https://instagram.com/trii_atmojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trii_atmojo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccng9ri9uz9dopxblm8elna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccng9ri9uz9dopxblm8elna" height="30" width="40" /></a>
 </p>
