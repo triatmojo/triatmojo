@@ -7,8 +7,8 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: update this repo's README with lates videos from Youtube
-    runs-on: ubuntu-lates
+    name: Update this repo's README with lates videos from Youtube
+    runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
