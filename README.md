@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently at Freelance
 - 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel, Codeigniter and JavaScript.
-- 🌱 I’m love learning everything 🤣
+- 🌱 I’m currently learning PHP Laravel, devops, software architecture, mysql, mongodb everything
 
 ### Connect with me:
 
@@ -34,6 +34,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCNG9rI9Uz9dOpxBLM8ELNA)
