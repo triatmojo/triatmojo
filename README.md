@@ -34,6 +34,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rest API With Lumen | 8. Migration dan Models Users](https://www.youtube.com/watch?v=uIuNP6Q8tYc)
+- [Rest API With Lumen | 7. API DELETE](https://www.youtube.com/watch?v=aSsmvvMwaOg)
+- [Rest API With Lumen | 6. API UPDATE](https://www.youtube.com/watch?v=9Ianr3fBobc)
+- [Rest API with Lumen | 5. API GET](https://www.youtube.com/watch?v=sNPVcgj6vkY)
+- [Rest API With Lumen | 4. API POST](https://www.youtube.com/watch?v=694xvsOAmB0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCNG9rI9Uz9dOpxBLM8ELNA)
