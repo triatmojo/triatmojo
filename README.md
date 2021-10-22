@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently at Freelance
 - 👯 I’m looking to collaborate on any open source projects 
-- 🌱 I’m currently learning PHP Laravel, devops, software architecture, mysql, mongodb
+- 🌱 I’m currently learning PHP Laravel, devops, software architecture, mysql, and mongodb
 
 ### Connect with me:
 
