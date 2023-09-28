@@ -2,7 +2,7 @@
 ### Hi there, I'm Tri Atmojo 👋
 
 ## A passionate backend developer, but also have an ability to code in frontend.
-- 🔭 I'm currently working as a System Engineer, and Frellance Project at alamkoding [Alamkoding ](https://www.alamkoding.com/)
+- 🔭 I'm currently working as a System Engineer, and Freelancer Project at Alamkoding [Alamkoding ](https://www.alamkoding.com/)
 - 👯 I’m looking to collaborate on any open source projects 
 - 🌱 I’m currently learning PHP, Golang, Docker, Kubernetes, Monitoring Tools (Laravel, Codeigniter, Prometheus, Grafana)
 
